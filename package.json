@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MariaTheCoder/musicCollection/issues"
   },
-  "homepage": "https://github.com/MariaTheCoder/musicCollection#readme"
+  "homepage": "https://github.com/MariaTheCoder/musicCollection#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
